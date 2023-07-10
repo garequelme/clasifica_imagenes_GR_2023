@@ -1,1 +1,1 @@
-#Archivo Python para clasifica imagenes
+#Archivo Python para clasificacion de imagenes
